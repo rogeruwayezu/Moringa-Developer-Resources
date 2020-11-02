@@ -1,5 +1,7 @@
 ## Table of Contents
 
+### Pre-prep Additional Resources
+
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
