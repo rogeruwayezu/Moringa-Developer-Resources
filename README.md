@@ -1,24 +1,12 @@
-## Table of Contents
+# <center>Welcome to the Moringa Developer Resource Center</center>
 
-### Pre-prep Additional Resources
+### This resource is designed to provide quick links to resources that you will need during the period when you are in the program and beyond. You will find links to resources in a manner that is categorized and easy for you to scan through to get what you need.
 
-- [Fonts](#fonts)
-- [Colors](#colors)
-- [Icons](#icons)
+### The content will be structed by levels of the program: Pre-Prep, Prep, Core- Angular, Core- Flask, Core - Java, Core - Android, Core - Django
 
-## Fonts
+### Use the quick links below to navigate.
 
-| [Google Fonts](https://fonts.google.com/)|
+# 
+# Table of Contents
 
-## Icons
 
-| [Material Design Icons](https://materialdesignicons.com/) |
-
-| [Fontawesome Icons](https://fontawesome.com/icons?d=gallery) |
-
-## Colors
-
-| [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
-| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
-
-### Prep Additional Resources
