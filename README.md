@@ -12,10 +12,10 @@
 |---|---|---|
 | Common  | This contains all the resources that you will be using regardless of the module you are in.  |  [Common Resources](./common/common.md) |
 | Pre-Prep  | You will find the resources that you will need and that are recommended to get you started here.  | [Pre-Prep Resources](./pre-prep/Pre-Prep.md)  |
-| Prep  | These are the resources that you will need as an introduction to web development with HTML, CSS, JS  | [Prep Resources](./prep/)  |
-| Angular  | These resources should allow you to plug any knowledge gaps you may have when it comes to Angular  | [Angular Resources](./core/angular/)  |
-| Flask  | These are the resources you can use to level up in Flask to create amazing products in the work environment and during the program  | [Flask Resources](./core/flask/)  |
-| Java | Java resources are plentiful and these here are just some of the ones that you can use to get a step ahead by understanding the core aspects and seeing what is required in terms of undrestanding in the industry  | [Java Resources](./core/java/)  |
-| Django | Django is a powerful framework in python that can help you achieve tremendous products in a very short amount of time, these resources will help you level up in understanding of the different aspects of this framework and also hacks that you can use | [Django Resources](./core/django)  |
-| Android  | The world is mobile, and with this, there is also a need for applications that can be used on the go. Whether it's games, finance, personal growth, adventure... If you can think of it, you can build it for the masses. These then are the resources that will get you a foot in the door of this amazing world.  | [Android Resources](./core/android)  |
+| Prep  | These are the resources that you will need as an introduction to web development with HTML, CSS, JS  | [Prep Resources](./prep/prep.md)  |
+| Angular  | These resources should allow you to plug any knowledge gaps you may have when it comes to Angular  | [Angular Resources](./core/angular/angular.md)  |
+| Flask  | These are the resources you can use to level up in Flask to create amazing products in the work environment and during the program  | [Flask Resources](./core/flask/flask.md)  |
+| Java | Java resources are plentiful and these here are just some of the ones that you can use to get a step ahead by understanding the core aspects and seeing what is required in terms of undrestanding in the industry  | [Java Resources](./core/java/java.md)  |
+| Django | Django is a powerful framework in python that can help you achieve tremendous products in a very short amount of time, these resources will help you level up in understanding of the different aspects of this framework and also hacks that you can use | [Django Resources](./core/django/django.md)  |
+| Android  | The world is mobile, and with this, there is also a need for applications that can be used on the go. Whether it's games, finance, personal growth, adventure... If you can think of it, you can build it for the masses. These then are the resources that will get you a foot in the door of this amazing world.  | [Android Resources](./core/android/android.md)  |
 
